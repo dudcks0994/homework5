@@ -4,3 +4,6 @@
 [submodule "Airdrop/lib/openzeppelin-contracts"]
 	path = Airdrop/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Airdrop/lib/openzeppelin-contracts-upgradeable"]
+	path = Airdrop/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
